@@ -1,23 +1,34 @@
 {
-  "at": 1794589249,
+  "at": 1794591230,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 3153,
-      "updated": 12,
+      "new": 6,
+      "updated": 3165,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 3295,
       "on_site": 3460,
       "full": true,
-      "active": 3165
+      "active": 3171
+    },
+    "etp.adilet.gov.kz": {
+      "new": 0,
+      "updated": 372,
+      "archived": 0,
+      "reopened": 0,
+      "errors": 0,
+      "listed": 372,
+      "on_site": 372,
+      "full": true,
+      "active": 372
     }
   },
   "problems": [
 
   ],
   "removed_old": 0,
-  "total_active": 3537,
+  "total_active": 3543,
   "total_archive": 0,
-  "took": 1688
+  "took": 303
 }
