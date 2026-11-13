@@ -1,0 +1,23 @@
+{
+  "at": 1794589249,
+  "platforms": {
+    "sauda.e-qazyna.kz": {
+      "new": 3153,
+      "updated": 12,
+      "archived": 0,
+      "reopened": 0,
+      "errors": 0,
+      "listed": 3295,
+      "on_site": 3460,
+      "full": true,
+      "active": 3165
+    }
+  },
+  "problems": [
+
+  ],
+  "removed_old": 0,
+  "total_active": 3537,
+  "total_archive": 0,
+  "took": 1688
+}
