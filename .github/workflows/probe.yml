@@ -5,7 +5,10 @@ on:
     inputs:
       urls:
         description: 'Адреса через пробел'
-        default: 'https://agrocredit.kz/ru/collateral https://agrocredit.kz https://sauda.e-qazyna.kz/ru/list https://etp.adilet.gov.kz/trades'
+        default: 'https://agrocredit.kz/ru/collateral https://sauda.e-qazyna.kz/ru/list https://etp.adilet.gov.kz/trades'
+      grep:
+        description: 'Какие ссылки показать (регулярное выражение)'
+        default: 'zalog|collateral|imush|realiz|property|залог|имуществ|реализац'
 
 permissions:
   contents: read
@@ -13,14 +16,16 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Проверка
         env:
           URLS: ${{ inputs.urls }}
+          GREP: ${{ inputs.grep }}
         run: |
           for u in $URLS; do
             curl -sS -m 40 -L -A 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/140.0 Safari/537.36' \
-              -o /tmp/p.html -w "$u -> %{http_code} %{size_download}b %{time_total}s\n" "$u" || echo "$u -> нет ответа"
-            head -c 400 /tmp/p.html | tr '\n' ' '; echo
+              -o /tmp/p.html -w "$u -> %{http_code} %{size_download}b %{time_total}s %{url_effective}\n" "$u" || echo "$u -> нет ответа"
+            grep -oE 'href="[^"]{3,160}"' /tmp/p.html | grep -iE "$GREP" | sort -u | head -30 | sed 's/^/    /'
+            grep -oiE '(найдено|всего|объект)[^<]{0,40}[0-9]+' /tmp/p.html | head -3 | sed 's/^/    # /'
           done
