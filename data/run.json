@@ -1,5 +1,5 @@
 {
-  "at": 1794643616,
+  "at": 1794664289,
   "platforms": {
     "sauda.e-qazyna.kz": {
       "new": 0,
@@ -24,8 +24,8 @@
       "active": 372
     },
     "halykzalog.kz": {
-      "new": 1004,
-      "updated": 0,
+      "new": 0,
+      "updated": 1004,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -35,8 +35,8 @@
       "active": 1004
     },
     "nurbank.kz": {
-      "new": 222,
-      "updated": 0,
+      "new": 0,
+      "updated": 222,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -46,8 +46,8 @@
       "active": 222
     },
     "sale.forte.kz": {
-      "new": 82,
-      "updated": 0,
+      "new": 0,
+      "updated": 82,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -57,8 +57,8 @@
       "active": 82
     },
     "e-sauda.com": {
-      "new": 75,
-      "updated": 0,
+      "new": 0,
+      "updated": 75,
       "archived": 0,
       "reopened": 0,
       "errors": 3,
@@ -71,8 +71,8 @@
   "problems": [
 
   ],
-  "removed_old": 0,
+  "removed_old": 1,
   "total_active": 5048,
-  "total_archive": 57608,
-  "took": 748
+  "total_archive": 57607,
+  "took": 554
 }
