@@ -1,5 +1,5 @@
 {
-  "at": 1794666200,
+  "at": 1794668639,
   "platforms": {
     "sauda.e-qazyna.kz": {
       "new": 0,
@@ -21,6 +21,7 @@
       "listed": 372,
       "on_site": 372,
       "full": true,
+      "photo_fixed": 125,
       "active": 372
     },
     "halykzalog.kz": {
@@ -57,30 +58,32 @@
       "active": 82
     },
     "berekebank.kz": {
-      "new": 101,
-      "updated": 0,
+      "new": 0,
+      "updated": 101,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 101,
       "on_site": 101,
       "full": true,
+      "photo_fixed": 9,
       "active": 101
     },
     "alataucitybank.kz": {
-      "new": 134,
-      "updated": 0,
+      "new": 0,
+      "updated": 134,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 134,
       "on_site": 134,
       "full": true,
+      "photo_fixed": 134,
       "active": 134
     },
     "hcsbk.kz": {
-      "new": 33,
-      "updated": 0,
+      "new": 0,
+      "updated": 33,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -90,8 +93,8 @@
       "active": 33
     },
     "eubank.kz": {
-      "new": 49,
-      "updated": 0,
+      "new": 0,
+      "updated": 49,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -101,8 +104,8 @@
       "active": 49
     },
     "bankffin.kz": {
-      "new": 87,
-      "updated": 0,
+      "new": 0,
+      "updated": 87,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -112,8 +115,8 @@
       "active": 87
     },
     "bcc.kz": {
-      "new": 59,
-      "updated": 0,
+      "new": 0,
+      "updated": 59,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -140,5 +143,5 @@
   "removed_old": 0,
   "total_active": 5511,
   "total_archive": 57607,
-  "took": 2036
+  "took": 1549
 }
