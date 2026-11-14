@@ -59,7 +59,7 @@ jobs:
 
       - name: ImageMagick для фото
         if: env.COLLECT == 'true'
-        run: command -v convert || (sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick)
+        run: command -v convert || (sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick webp)
 
       - name: Обход площадок
         if: env.COLLECT == 'true'
