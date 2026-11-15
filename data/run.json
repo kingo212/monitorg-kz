@@ -1,5 +1,5 @@
 {
-  "at": 1794726002,
+  "at": 1794750810,
   "platforms": {
     "sauda.e-qazyna.kz": {
       "new": 0,
@@ -14,15 +14,14 @@
     },
     "etp.adilet.gov.kz": {
       "new": 0,
-      "updated": 372,
-      "archived": 0,
+      "updated": 371,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 372,
-      "on_site": 372,
+      "listed": 371,
+      "on_site": 371,
       "full": true,
-      "photo_fixed": 9,
-      "active": 372
+      "active": 371
     },
     "halykzalog.kz": {
       "new": 0,
@@ -66,7 +65,6 @@
       "listed": 101,
       "on_site": 101,
       "full": true,
-      "photo_fixed": 3,
       "active": 101
     },
     "alataucitybank.kz": {
@@ -140,7 +138,7 @@
 
   ],
   "removed_old": 0,
-  "total_active": 5511,
-  "total_archive": 57607,
-  "took": 867
+  "total_active": 5510,
+  "total_archive": 57608,
+  "took": 1040
 }
