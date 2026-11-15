@@ -1,5 +1,5 @@
 {
-  "at": 1794672066,
+  "at": 1794726002,
   "platforms": {
     "sauda.e-qazyna.kz": {
       "new": 0,
@@ -21,7 +21,7 @@
       "listed": 372,
       "on_site": 372,
       "full": true,
-      "photo_fixed": 188,
+      "photo_fixed": 9,
       "active": 372
     },
     "halykzalog.kz": {
@@ -66,7 +66,7 @@
       "listed": 101,
       "on_site": 101,
       "full": true,
-      "photo_fixed": 6,
+      "photo_fixed": 3,
       "active": 101
     },
     "alataucitybank.kz": {
@@ -142,5 +142,5 @@
   "removed_old": 0,
   "total_active": 5511,
   "total_archive": 57607,
-  "took": 1025
+  "took": 867
 }
