@@ -1,38 +1,39 @@
 {
-  "at": 1794750810,
+  "at": 1794818504,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 0,
-      "updated": 3293,
-      "archived": 0,
+      "new": 61,
+      "updated": 3290,
+      "archived": 3,
       "reopened": 0,
       "errors": 0,
-      "listed": 3417,
-      "on_site": 3473,
+      "listed": 3475,
+      "on_site": 3531,
       "full": true,
-      "active": 3293
+      "active": 3351
     },
     "etp.adilet.gov.kz": {
-      "new": 0,
-      "updated": 371,
-      "archived": 1,
+      "new": 25,
+      "updated": 273,
+      "archived": 98,
       "reopened": 0,
       "errors": 0,
-      "listed": 371,
-      "on_site": 371,
+      "listed": 298,
+      "on_site": 298,
       "full": true,
-      "active": 371
+      "photo_fixed": 48,
+      "active": 298
     },
     "halykzalog.kz": {
-      "new": 0,
+      "new": 1,
       "updated": 1004,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 1004,
-      "on_site": 1004,
+      "listed": 1005,
+      "on_site": 1005,
       "full": true,
-      "active": 1004
+      "active": 1005
     },
     "nurbank.kz": {
       "new": 0,
@@ -101,15 +102,15 @@
       "active": 49
     },
     "bankffin.kz": {
-      "new": 0,
+      "new": 1,
       "updated": 87,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 87,
-      "on_site": 87,
+      "listed": 88,
+      "on_site": 88,
       "full": true,
-      "active": 87
+      "active": 88
     },
     "bcc.kz": {
       "new": 0,
@@ -124,21 +125,21 @@
     },
     "e-sauda.com": {
       "new": 0,
-      "updated": 75,
-      "archived": 0,
+      "updated": 68,
+      "archived": 7,
       "reopened": 0,
       "errors": 3,
-      "listed": 100,
-      "on_site": 100,
+      "listed": 92,
+      "on_site": 92,
       "full": true,
-      "active": 75
+      "active": 68
     }
   },
   "problems": [
 
   ],
   "removed_old": 0,
-  "total_active": 5510,
-  "total_archive": 57608,
-  "took": 1040
+  "total_active": 5490,
+  "total_archive": 57716,
+  "took": 801
 }
