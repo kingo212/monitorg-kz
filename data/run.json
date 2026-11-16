@@ -1,39 +1,38 @@
 {
-  "at": 1794818504,
+  "at": 1794844246,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 61,
-      "updated": 3290,
-      "archived": 3,
+      "new": 156,
+      "updated": 3350,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 3475,
-      "on_site": 3531,
+      "listed": 3636,
+      "on_site": 3706,
       "full": true,
-      "active": 3351
+      "active": 3506
     },
     "etp.adilet.gov.kz": {
-      "new": 25,
-      "updated": 273,
-      "archived": 98,
+      "new": 64,
+      "updated": 297,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 298,
-      "on_site": 298,
+      "listed": 361,
+      "on_site": 361,
       "full": true,
-      "photo_fixed": 48,
-      "active": 298
+      "active": 361
     },
     "halykzalog.kz": {
       "new": 1,
-      "updated": 1004,
+      "updated": 1005,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 1005,
-      "on_site": 1005,
+      "listed": 1006,
+      "on_site": 1006,
       "full": true,
-      "active": 1005
+      "active": 1006
     },
     "nurbank.kz": {
       "new": 0,
@@ -47,37 +46,37 @@
       "active": 222
     },
     "sale.forte.kz": {
-      "new": 0,
+      "new": 2,
       "updated": 82,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 82,
-      "on_site": 82,
+      "listed": 84,
+      "on_site": 84,
       "full": true,
-      "active": 82
+      "active": 84
     },
     "berekebank.kz": {
       "new": 0,
-      "updated": 101,
-      "archived": 0,
+      "updated": 100,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 101,
-      "on_site": 101,
+      "listed": 100,
+      "on_site": 100,
       "full": true,
-      "active": 101
+      "active": 100
     },
     "alataucitybank.kz": {
       "new": 0,
-      "updated": 134,
-      "archived": 0,
+      "updated": 133,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 134,
-      "on_site": 134,
+      "listed": 133,
+      "on_site": 133,
       "full": true,
-      "active": 134
+      "active": 133
     },
     "hcsbk.kz": {
       "new": 0,
@@ -102,8 +101,8 @@
       "active": 49
     },
     "bankffin.kz": {
-      "new": 1,
-      "updated": 87,
+      "new": 0,
+      "updated": 88,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -124,22 +123,22 @@
       "active": 59
     },
     "e-sauda.com": {
-      "new": 0,
-      "updated": 68,
-      "archived": 7,
+      "new": 3,
+      "updated": 66,
+      "archived": 2,
       "reopened": 0,
       "errors": 3,
-      "listed": 92,
-      "on_site": 92,
+      "listed": 93,
+      "on_site": 93,
       "full": true,
-      "active": 68
+      "active": 69
     }
   },
   "problems": [
 
   ],
   "removed_old": 0,
-  "total_active": 5490,
-  "total_archive": 57716,
-  "took": 801
+  "total_active": 5710,
+  "total_archive": 57722,
+  "took": 871
 }
