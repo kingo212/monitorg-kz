@@ -1,72 +1,72 @@
 {
-  "at": 1794899796,
+  "at": 1794925151,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 33,
-      "updated": 3226,
-      "archived": 280,
+      "new": 104,
+      "updated": 3258,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 3384,
-      "on_site": 3451,
+      "listed": 3500,
+      "on_site": 3568,
       "full": true,
-      "active": 3259
+      "active": 3362
     },
     "etp.adilet.gov.kz": {
-      "new": 7,
-      "updated": 318,
-      "archived": 42,
+      "new": 34,
+      "updated": 323,
+      "archived": 2,
       "reopened": 0,
       "errors": 0,
-      "listed": 325,
-      "on_site": 325,
+      "listed": 357,
+      "on_site": 357,
       "full": true,
       "photo_fixed": 20,
-      "active": 325
+      "active": 357
     },
     "halykzalog.kz": {
-      "new": 2,
-      "updated": 1006,
-      "archived": 0,
+      "new": 0,
+      "updated": 1007,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 1008,
-      "on_site": 1008,
+      "listed": 1007,
+      "on_site": 1007,
       "full": true,
-      "active": 1008
+      "active": 1007
     },
     "nurbank.kz": {
       "new": 0,
-      "updated": 206,
-      "archived": 16,
+      "updated": 205,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 206,
-      "on_site": 206,
+      "listed": 205,
+      "on_site": 205,
       "full": true,
-      "active": 206
+      "active": 205
     },
     "sale.forte.kz": {
-      "new": 1,
-      "updated": 84,
-      "archived": 0,
+      "new": 0,
+      "updated": 83,
+      "archived": 2,
       "reopened": 0,
       "errors": 0,
-      "listed": 85,
-      "on_site": 85,
+      "listed": 83,
+      "on_site": 83,
       "full": true,
-      "active": 85
+      "active": 83
     },
     "berekebank.kz": {
-      "new": 0,
+      "new": 1,
       "updated": 100,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 100,
-      "on_site": 100,
+      "listed": 101,
+      "on_site": 101,
       "full": true,
-      "active": 100
+      "active": 101
     },
     "alataucitybank.kz": {
       "new": 0,
@@ -92,14 +92,14 @@
     },
     "eubank.kz": {
       "new": 0,
-      "updated": 49,
-      "archived": 0,
+      "updated": 48,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 49,
-      "on_site": 49,
+      "listed": 48,
+      "on_site": 48,
       "full": true,
-      "active": 49
+      "active": 48
     },
     "bankffin.kz": {
       "new": 0,
@@ -114,32 +114,32 @@
     },
     "bcc.kz": {
       "new": 0,
-      "updated": 59,
+      "updated": 0,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 59,
-      "on_site": 59,
-      "full": true,
+      "listed": 0,
+      "on_site": null,
+      "full": false,
       "active": 59
     },
     "e-sauda.com": {
-      "new": 8,
-      "updated": 66,
+      "new": 24,
+      "updated": 67,
       "archived": 7,
-      "reopened": 0,
+      "reopened": 2,
       "errors": 3,
-      "listed": 87,
-      "on_site": 87,
+      "listed": 104,
+      "on_site": 104,
       "full": true,
-      "active": 70
+      "active": 89
     }
   },
   "problems": [
-
+    "bcc.kz: список не прочитан или пуст (получено 0, было активных 59)"
   ],
   "removed_old": 0,
-  "total_active": 5415,
-  "total_archive": 58071,
-  "took": 708
+  "total_active": 5565,
+  "total_archive": 58084,
+  "took": 822
 }
