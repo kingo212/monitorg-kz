@@ -1,65 +1,66 @@
 {
-  "at": 1794844246,
+  "at": 1794899796,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 156,
-      "updated": 3350,
-      "archived": 1,
+      "new": 33,
+      "updated": 3226,
+      "archived": 280,
       "reopened": 0,
       "errors": 0,
-      "listed": 3636,
-      "on_site": 3706,
+      "listed": 3384,
+      "on_site": 3451,
       "full": true,
-      "active": 3506
+      "active": 3259
     },
     "etp.adilet.gov.kz": {
-      "new": 64,
-      "updated": 297,
-      "archived": 1,
+      "new": 7,
+      "updated": 318,
+      "archived": 42,
       "reopened": 0,
       "errors": 0,
-      "listed": 361,
-      "on_site": 361,
+      "listed": 325,
+      "on_site": 325,
       "full": true,
-      "active": 361
+      "photo_fixed": 20,
+      "active": 325
     },
     "halykzalog.kz": {
-      "new": 1,
-      "updated": 1005,
+      "new": 2,
+      "updated": 1006,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 1006,
-      "on_site": 1006,
+      "listed": 1008,
+      "on_site": 1008,
       "full": true,
-      "active": 1006
+      "active": 1008
     },
     "nurbank.kz": {
       "new": 0,
-      "updated": 222,
-      "archived": 0,
+      "updated": 206,
+      "archived": 16,
       "reopened": 0,
       "errors": 0,
-      "listed": 222,
-      "on_site": 222,
+      "listed": 206,
+      "on_site": 206,
       "full": true,
-      "active": 222
+      "active": 206
     },
     "sale.forte.kz": {
-      "new": 2,
-      "updated": 82,
+      "new": 1,
+      "updated": 84,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 84,
-      "on_site": 84,
+      "listed": 85,
+      "on_site": 85,
       "full": true,
-      "active": 84
+      "active": 85
     },
     "berekebank.kz": {
       "new": 0,
       "updated": 100,
-      "archived": 1,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 100,
@@ -70,7 +71,7 @@
     "alataucitybank.kz": {
       "new": 0,
       "updated": 133,
-      "archived": 1,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 133,
@@ -123,22 +124,22 @@
       "active": 59
     },
     "e-sauda.com": {
-      "new": 3,
+      "new": 8,
       "updated": 66,
-      "archived": 2,
+      "archived": 7,
       "reopened": 0,
       "errors": 3,
-      "listed": 93,
-      "on_site": 93,
+      "listed": 87,
+      "on_site": 87,
       "full": true,
-      "active": 69
+      "active": 70
     }
   },
   "problems": [
 
   ],
   "removed_old": 0,
-  "total_active": 5710,
-  "total_archive": 57722,
-  "took": 871
+  "total_active": 5415,
+  "total_archive": 58071,
+  "took": 708
 }
