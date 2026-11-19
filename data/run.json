@@ -1,32 +1,32 @@
 {
-  "at": 1795011548,
+  "at": 1795072688,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 82,
-      "updated": 3269,
-      "archived": 5,
+      "new": 47,
+      "updated": 2991,
+      "archived": 360,
       "reopened": 0,
       "errors": 0,
-      "listed": 3492,
-      "on_site": 3562,
+      "listed": 3168,
+      "on_site": 3238,
       "full": true,
-      "active": 3351
+      "active": 3038
     },
     "etp.adilet.gov.kz": {
-      "new": 0,
-      "updated": 254,
-      "archived": 4,
+      "new": 36,
+      "updated": 230,
+      "archived": 24,
       "reopened": 0,
       "errors": 0,
-      "listed": 254,
-      "on_site": 254,
+      "listed": 266,
+      "on_site": 266,
       "full": true,
-      "photo_fixed": 35,
-      "active": 254
+      "photo_fixed": 1,
+      "active": 266
     },
     "halykzalog.kz": {
-      "new": 0,
-      "updated": 1007,
+      "new": 1,
+      "updated": 1006,
       "archived": 1,
       "reopened": 0,
       "errors": 0,
@@ -58,15 +58,16 @@
       "active": 83
     },
     "berekebank.kz": {
-      "new": 2,
-      "updated": 101,
+      "new": 1,
+      "updated": 103,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 103,
-      "on_site": 103,
+      "listed": 104,
+      "on_site": 104,
       "full": true,
-      "active": 103
+      "photo_fixed": 1,
+      "active": 104
     },
     "alataucitybank.kz": {
       "new": 0,
@@ -91,8 +92,8 @@
       "active": 33
     },
     "eubank.kz": {
-      "new": 1,
-      "updated": 48,
+      "new": 0,
+      "updated": 49,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -114,32 +115,32 @@
     },
     "bcc.kz": {
       "new": 0,
-      "updated": 0,
+      "updated": 59,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 0,
-      "on_site": null,
-      "full": false,
+      "listed": 59,
+      "on_site": 59,
+      "full": true,
       "active": 59
     },
     "e-sauda.com": {
       "new": 0,
-      "updated": 97,
+      "updated": 95,
       "archived": 1,
-      "reopened": 1,
+      "reopened": 0,
       "errors": 3,
-      "listed": 109,
-      "on_site": 109,
+      "listed": 104,
+      "on_site": 104,
       "full": true,
-      "active": 96
+      "active": 95
     }
   },
   "problems": [
-    "bcc.kz: список не прочитан или пуст (получено 0, было активных 59)"
+
   ],
-  "removed_old": 2,
-  "total_active": 5461,
-  "total_archive": 57973,
-  "took": 852
+  "removed_old": 249,
+  "total_active": 5160,
+  "total_archive": 58111,
+  "took": 764
 }
