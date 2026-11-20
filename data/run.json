@@ -1,38 +1,38 @@
 {
-  "at": 1795098175,
+  "at": 1795158922,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 309,
-      "updated": 3002,
-      "archived": 36,
+      "new": 83,
+      "updated": 2964,
+      "archived": 347,
       "reopened": 0,
       "errors": 0,
-      "listed": 3448,
-      "on_site": 3522,
+      "listed": 3183,
+      "on_site": 3249,
       "full": true,
-      "active": 3311
+      "active": 3047
     },
     "etp.adilet.gov.kz": {
       "new": 0,
-      "updated": 266,
+      "updated": 0,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 266,
-      "on_site": 266,
-      "full": true,
-      "active": 266
+      "listed": 0,
+      "on_site": null,
+      "full": false,
+      "active": 264
     },
     "halykzalog.kz": {
-      "new": 4,
-      "updated": 1005,
+      "new": 1,
+      "updated": 1007,
       "archived": 2,
       "reopened": 0,
       "errors": 0,
-      "listed": 1009,
-      "on_site": 1009,
+      "listed": 1008,
+      "on_site": 1008,
       "full": true,
-      "active": 1009
+      "active": 1008
     },
     "nurbank.kz": {
       "new": 0,
@@ -57,15 +57,16 @@
       "active": 83
     },
     "berekebank.kz": {
-      "new": 2,
-      "updated": 104,
+      "new": 1,
+      "updated": 106,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 106,
-      "on_site": 106,
+      "listed": 107,
+      "on_site": 107,
       "full": true,
-      "active": 106
+      "photo_fixed": 2,
+      "active": 107
     },
     "alataucitybank.kz": {
       "new": 0,
@@ -91,14 +92,14 @@
     },
     "eubank.kz": {
       "new": 0,
-      "updated": 49,
-      "archived": 0,
+      "updated": 48,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 49,
-      "on_site": 49,
+      "listed": 48,
+      "on_site": 48,
       "full": true,
-      "active": 49
+      "active": 48
     },
     "bankffin.kz": {
       "new": 0,
@@ -123,22 +124,22 @@
       "active": 59
     },
     "e-sauda.com": {
-      "new": 0,
-      "updated": 95,
-      "archived": 0,
+      "new": 1,
+      "updated": 93,
+      "archived": 6,
       "reopened": 0,
       "errors": 3,
-      "listed": 104,
-      "on_site": 104,
+      "listed": 102,
+      "on_site": 102,
       "full": true,
-      "active": 95
+      "active": 90
     }
   },
   "problems": [
-
+    "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 264)"
   ],
-  "removed_old": 2,
-  "total_active": 5437,
-  "total_archive": 58147,
-  "took": 888
+  "removed_old": 235,
+  "total_active": 5165,
+  "total_archive": 58271,
+  "took": 869
 }
