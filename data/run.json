@@ -1,10 +1,10 @@
 {
-  "at": 1795184383,
+  "at": 1795244801,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 272,
-      "updated": 3046,
-      "archived": 1,
+      "new": 0,
+      "updated": 3318,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 3469,
@@ -24,9 +24,9 @@
       "active": 264
     },
     "halykzalog.kz": {
-      "new": 6,
-      "updated": 1007,
-      "archived": 1,
+      "new": 0,
+      "updated": 1013,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 1013,
@@ -57,8 +57,8 @@
       "active": 83
     },
     "berekebank.kz": {
-      "new": 5,
-      "updated": 107,
+      "new": 0,
+      "updated": 112,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
@@ -102,9 +102,9 @@
       "active": 48
     },
     "bankffin.kz": {
-      "new": 2,
-      "updated": 87,
-      "archived": 1,
+      "new": 0,
+      "updated": 89,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 89,
@@ -124,8 +124,8 @@
       "active": 59
     },
     "e-sauda.com": {
-      "new": 1,
-      "updated": 94,
+      "new": 0,
+      "updated": 95,
       "archived": 4,
       "reopened": 4,
       "errors": 3,
@@ -138,8 +138,8 @@
   "problems": [
     "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 264)"
   ],
-  "removed_old": 0,
+  "removed_old": 265,
   "total_active": 5448,
-  "total_archive": 58274,
-  "took": 893
+  "total_archive": 58009,
+  "took": 758
 }
