@@ -1,5 +1,5 @@
 {
-  "at": 1795244801,
+  "at": 1795269505,
   "platforms": {
     "sauda.e-qazyna.kz": {
       "new": 0,
@@ -65,7 +65,6 @@
       "listed": 112,
       "on_site": 112,
       "full": true,
-      "photo_fixed": 1,
       "active": 112
     },
     "alataucitybank.kz": {
@@ -138,8 +137,8 @@
   "problems": [
     "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 264)"
   ],
-  "removed_old": 265,
+  "removed_old": 1,
   "total_active": 5448,
-  "total_archive": 58009,
-  "took": 758
+  "total_archive": 58008,
+  "took": 744
 }
