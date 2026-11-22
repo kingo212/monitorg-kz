@@ -1,5 +1,5 @@
 {
-  "at": 1795269505,
+  "at": 1795331243,
   "platforms": {
     "sauda.e-qazyna.kz": {
       "new": 0,
@@ -137,8 +137,8 @@
   "problems": [
     "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 264)"
   ],
-  "removed_old": 1,
+  "removed_old": 0,
   "total_active": 5448,
   "total_archive": 58008,
-  "took": 744
+  "took": 781
 }
