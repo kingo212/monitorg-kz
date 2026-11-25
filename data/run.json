@@ -1,21 +1,21 @@
 {
-  "at": 1795591175,
+  "at": 1795616695,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 56,
-      "updated": 2938,
-      "archived": 258,
-      "reopened": 0,
+      "new": 316,
+      "updated": 2987,
+      "archived": 12,
+      "reopened": 5,
       "errors": 0,
-      "listed": 3140,
-      "on_site": 3200,
+      "listed": 3451,
+      "on_site": 3517,
       "full": true,
-      "active": 2989
+      "active": 3298
     },
     "etp.adilet.gov.kz": {
       "new": 0,
       "updated": 0,
-      "archived": 86,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 0,
@@ -24,15 +24,15 @@
       "active": 79
     },
     "halykzalog.kz": {
-      "new": 10,
-      "updated": 1021,
-      "archived": 0,
+      "new": 2,
+      "updated": 1030,
+      "archived": 1,
       "reopened": 0,
       "errors": 0,
-      "listed": 1031,
-      "on_site": 1031,
+      "listed": 1032,
+      "on_site": 1032,
       "full": true,
-      "active": 1031
+      "active": 1032
     },
     "nurbank.kz": {
       "new": 0,
@@ -46,9 +46,9 @@
       "active": 203
     },
     "sale.forte.kz": {
-      "new": 1,
-      "updated": 82,
-      "archived": 1,
+      "new": 0,
+      "updated": 83,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
       "listed": 83,
@@ -112,21 +112,21 @@
       "active": 82
     },
     "bcc.kz": {
-      "new": 0,
+      "new": 1,
       "updated": 59,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 59,
-      "on_site": 59,
+      "listed": 60,
+      "on_site": 60,
       "full": true,
-      "active": 59
+      "active": 60
     },
     "e-sauda.com": {
-      "new": 2,
-      "updated": 93,
-      "archived": 36,
-      "reopened": 0,
+      "new": 0,
+      "updated": 95,
+      "archived": 34,
+      "reopened": 34,
       "errors": 3,
       "listed": 100,
       "on_site": 100,
@@ -135,10 +135,10 @@
     }
   },
   "problems": [
-    "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 165)"
+    "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 79)"
   ],
-  "removed_old": 495,
-  "total_active": 4914,
-  "total_archive": 58614,
-  "took": 711
+  "removed_old": 5,
+  "total_active": 5225,
+  "total_archive": 58617,
+  "took": 953
 }
