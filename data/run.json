@@ -1,38 +1,38 @@
 {
-  "at": 1795616695,
+  "at": 1795677453,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 316,
-      "updated": 2987,
-      "archived": 12,
+      "new": 96,
+      "updated": 3081,
+      "archived": 227,
       "reopened": 5,
       "errors": 0,
-      "listed": 3451,
-      "on_site": 3517,
+      "listed": 3306,
+      "on_site": 3372,
       "full": true,
-      "active": 3298
+      "active": 3172
     },
     "etp.adilet.gov.kz": {
       "new": 0,
       "updated": 0,
-      "archived": 0,
+      "archived": 40,
       "reopened": 0,
       "errors": 0,
       "listed": 0,
       "on_site": null,
       "full": false,
-      "active": 79
+      "active": 39
     },
     "halykzalog.kz": {
       "new": 2,
-      "updated": 1030,
-      "archived": 1,
+      "updated": 1032,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 1032,
-      "on_site": 1032,
+      "listed": 1034,
+      "on_site": 1034,
       "full": true,
-      "active": 1032
+      "active": 1034
     },
     "nurbank.kz": {
       "new": 0,
@@ -113,32 +113,32 @@
     },
     "bcc.kz": {
       "new": 1,
-      "updated": 59,
+      "updated": 60,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 60,
-      "on_site": 60,
+      "listed": 61,
+      "on_site": 61,
       "full": true,
-      "active": 60
+      "active": 61
     },
     "e-sauda.com": {
       "new": 0,
-      "updated": 95,
-      "archived": 34,
+      "updated": 72,
+      "archived": 57,
       "reopened": 34,
       "errors": 3,
-      "listed": 100,
-      "on_site": 100,
+      "listed": 77,
+      "on_site": 77,
       "full": true,
-      "active": 61
+      "active": 38
     }
   },
   "problems": [
     "etp.adilet.gov.kz: список не прочитан или пуст (получено 0, было активных 79)"
   ],
-  "removed_old": 5,
-  "total_active": 5225,
-  "total_archive": 58617,
-  "took": 953
+  "removed_old": 275,
+  "total_active": 5039,
+  "total_archive": 58627,
+  "took": 1097
 }
