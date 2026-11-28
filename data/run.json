@@ -1,39 +1,39 @@
 {
-  "at": 1795763879,
+  "at": 1795849844,
   "platforms": {
     "sauda.e-qazyna.kz": {
-      "new": 36,
-      "updated": 3137,
-      "archived": 329,
+      "new": 344,
+      "updated": 3147,
+      "archived": 5,
       "reopened": 5,
       "errors": 0,
-      "listed": 3300,
-      "on_site": 3378,
+      "listed": 3621,
+      "on_site": 3702,
       "full": true,
-      "active": 3168
+      "active": 3486
     },
     "etp.adilet.gov.kz": {
-      "new": 194,
-      "updated": 38,
-      "archived": 1,
+      "new": 0,
+      "updated": 229,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 232,
-      "on_site": 232,
+      "listed": 229,
+      "on_site": 229,
       "full": true,
-      "photo_fixed": 35,
-      "active": 232
+      "photo_fixed": 5,
+      "active": 229
     },
     "halykzalog.kz": {
-      "new": 0,
+      "new": 1,
       "updated": 1033,
-      "archived": 1,
+      "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 1033,
-      "on_site": 1033,
+      "listed": 1034,
+      "on_site": 1034,
       "full": true,
-      "active": 1033
+      "active": 1034
     },
     "nurbank.kz": {
       "new": 0,
@@ -58,15 +58,16 @@
       "active": 83
     },
     "berekebank.kz": {
-      "new": 19,
-      "updated": 114,
+      "new": 2,
+      "updated": 133,
       "archived": 0,
       "reopened": 0,
       "errors": 0,
-      "listed": 133,
-      "on_site": 133,
+      "listed": 135,
+      "on_site": 135,
       "full": true,
-      "active": 133
+      "photo_fixed": 5,
+      "active": 135
     },
     "alataucitybank.kz": {
       "new": 0,
@@ -124,22 +125,22 @@
       "active": 61
     },
     "e-sauda.com": {
-      "new": 2,
-      "updated": 72,
-      "archived": 33,
+      "new": 0,
+      "updated": 71,
+      "archived": 37,
       "reopened": 33,
       "errors": 3,
-      "listed": 79,
-      "on_site": 79,
+      "listed": 76,
+      "on_site": 76,
       "full": true,
-      "active": 41
+      "active": 37
     }
   },
   "problems": [
 
   ],
-  "removed_old": 206,
-  "total_active": 5250,
-  "total_archive": 58752,
-  "took": 1058
+  "removed_old": 187,
+  "total_active": 5564,
+  "total_archive": 58607,
+  "took": 987
 }
